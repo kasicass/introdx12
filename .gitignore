@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs
+*.suo
+Build
+Lib
+*.opensdf
+*.sdf
+*.user
+ipch
+*.exe
+*.aps
+*.obj
+*.swp
+*.dll
