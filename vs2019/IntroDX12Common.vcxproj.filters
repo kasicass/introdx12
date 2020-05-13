@@ -2,8 +2,15 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="..\src\IntroDX12Common\GameTimer.cpp" />
+    <ClCompile Include="..\src\IntroDX12Common\d3dUtil.cpp" />
+    <ClCompile Include="..\src\IntroDX12Common\MathHelper.cpp" />
+    <ClCompile Include="..\src\IntroDX12Common\d3dApp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\IntroDX12Common\GameTimer.h" />
+    <ClInclude Include="..\src\IntroDX12Common\d3dUtil.h" />
+    <ClInclude Include="..\src\IntroDX12Common\MathHelper.h" />
+    <ClInclude Include="..\src\IntroDX12Common\d3dx12.h" />
+    <ClInclude Include="..\src\IntroDX12Common\d3dApp.h" />
   </ItemGroup>
 </Project>
