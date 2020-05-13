@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_XMVECTOR", "01_XMVECTOR.vcxproj", "{030C9045-2EC8-4E0F-A13A-32184EE6F872}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_XMMATRIX", "02_XMMATRIX.vcxproj", "{0C283CEA-2EB0-42C5-B723-469527CB5E14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{030C9045-2EC8-4E0F-A13A-32184EE6F872}.Release|x64.Build.0 = Release|x64
 		{030C9045-2EC8-4E0F-A13A-32184EE6F872}.Release|x86.ActiveCfg = Release|Win32
 		{030C9045-2EC8-4E0F-A13A-32184EE6F872}.Release|x86.Build.0 = Release|Win32
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Debug|x64.ActiveCfg = Debug|x64
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Debug|x64.Build.0 = Debug|x64
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Debug|x86.Build.0 = Debug|Win32
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Release|x64.ActiveCfg = Release|x64
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Release|x64.Build.0 = Release|x64
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Release|x86.ActiveCfg = Release|Win32
+		{0C283CEA-2EB0-42C5-B723-469527CB5E14}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
